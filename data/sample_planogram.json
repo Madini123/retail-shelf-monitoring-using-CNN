@@ -1,0 +1,14 @@
+{
+  "shelf_id": "DEFAULT_SHELF_TEMPLATE",
+  "description": "Mock planogram reference with normalized coordinates (0.0 to 1.0) [x_min, y_min, x_max, y_max]",
+  "expected_products": [
+    {"id": "slot_1", "bbox_relative": [0.05, 0.10, 0.15, 0.35]},
+    {"id": "slot_2", "bbox_relative": [0.20, 0.10, 0.30, 0.35]},
+    {"id": "slot_3", "bbox_relative": [0.35, 0.10, 0.45, 0.35]},
+    {"id": "slot_4", "bbox_relative": [0.55, 0.10, 0.65, 0.35]},
+    {"id": "slot_5", "bbox_relative": [0.05, 0.60, 0.15, 0.85]},
+    {"id": "slot_6", "bbox_relative": [0.20, 0.60, 0.30, 0.85]},
+    {"id": "slot_7", "bbox_relative": [0.35, 0.60, 0.45, 0.85]},
+    {"id": "slot_8", "bbox_relative": [0.80, 0.60, 0.90, 0.85]}
+  ]
+}

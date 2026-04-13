@@ -1,0 +1,29 @@
+# Environments
+retail_cv/
+venv/
+.env
+.jupyter/
+.venv/
+
+# Data
+data/
+*.csv
+*.zip
+*.json
+*.jpg
+*.png
+*.jpeg
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Models and Runs
+*.pt
+*.pth
+runs/
+models/
